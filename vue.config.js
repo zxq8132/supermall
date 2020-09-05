@@ -12,3 +12,4 @@ module.exports = {
   }
 }
 
+// 配置路径的别名
